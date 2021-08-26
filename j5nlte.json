@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1629998289,
+      "datetime": 1630005489,
       "filename": "lineage_j5nlte-ota-eng.daviiid99.zip",
       "id": "000000",
       "romtype": "unofficial",
-      "size": 787480576,
+      "size": 713031680,
       "url": "https://github.com/daviiid99/J5-OTA-Updates/releases/download/OTA/lineage_j5nlte-ota-eng.daviiid99.zip",
       "version": "18.1"
     }    
